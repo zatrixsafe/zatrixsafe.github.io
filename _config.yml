@@ -6,7 +6,7 @@ email: zatrixsafe@gmail.com
 description: ""
 keyword: ""
 url: "https://zatrixsafe.github.io/"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
